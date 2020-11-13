@@ -1,0 +1,23 @@
+{
+    "data":[
+        { "id" : 1,    "fund_id" : "008888",  "fund_name" : "华夏国证半导体芯片ETF联C","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 2,    "fund_id" : "008086",  "fund_name" : "华夏中证5G通信主题ETF联A","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 3,    "fund_id" : "008087",  "fund_name" : "华夏中证5G通信主题ETF联C","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 4,    "fund_id" : "009865",  "fund_name" : "招商景气优选股票C","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 5,    "fund_id" : "161726",  "fund_name" : "招商国证生物医药指数","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 6,    "fund_id" : "161725",  "fund_name" : "招商中证白酒指数分级","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 7,    "fund_id" : "004855",  "fund_name" : "广发中证全指汽车指数C","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 8,    "fund_id" : "005693",  "fund_name" : "广发中证军工ETF联接C","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 9,    "fund_id" : "001588",  "fund_name" : "天弘中证800指数A","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 10,   "fund_id" : "005918",  "fund_name" : "天弘沪深300ETF联接C","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 11,   "fund_id" : "001630",  "fund_name" : "天弘中证计算机主题ETF联接C","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 12,   "fund_id" : "501058",  "fund_name" : "汇添富中证新能源汽车产业指数(LOF)C","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 13,   "fund_id" : "007154",  "fund_name" : "汇添富中证银行ETF联接C","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 14,   "fund_id" : "005963",  "fund_name" : "宝盈人工智能主题股票C","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 15,   "fund_id" : "010129",  "fund_name" : "宝盈发展新动能股票C","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 16,   "fund_id" : "320007",  "fund_name" : "诺安成长混合","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 17,   "fund_id" : "161903",  "fund_name" : "万家行业优选混合(LOF)","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 18,   "fund_id" : "163402",  "fund_name" : "兴全趋势投资混合(LOF)","invested":5000,"prime_cost":1.1725,"share_held":3654.75},
+        { "id" : 19,   "fund_id" : "163402",  "fund_name" : "兴全趋势投资混合(LOF)","invested":5000,"prime_cost":1.1725,"share_held":3654.75}
+    ]
+}

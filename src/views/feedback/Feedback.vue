@@ -1,13 +1,13 @@
 <template>
-    <div id="home" class="home">
-        Home
+    <div id="feedback" class="feedback">
+        FeedBack
     </div>
 </template>
 <script>
     export default{}
 </script>
 <style scoped>
-    .home{
+    .feedback{
         width: 100%;
         height: 100%;
         position: fixed;
