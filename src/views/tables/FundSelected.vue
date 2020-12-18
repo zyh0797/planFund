@@ -26,7 +26,7 @@
                                 <el-input v-model="search" size="mini" placeholder="输入基金名称或代码"/>
                             </template>
                             <template slot-scope="scope">
-                                <el-button size="mini" @click="handleEdit(scope.$index, scope.row)" >取消自选</el-button>
+                                <el-button size="mini" type="danger" @click="handleEdit(scope.$index, scope.row)" >取消自选</el-button>
                             </template>
                         </el-table-column>
                     </el-table>
@@ -67,7 +67,7 @@
         },
         methods: {
             tableRowClassName({row,rowIndex}){
-                if(rowIndex % 2 == 0){
+                if(row.appraisement >= row.value){
                     return 'warning-row';
                 }else{
                     return 'success-row';

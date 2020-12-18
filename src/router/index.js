@@ -10,6 +10,7 @@ import FundChart from '../views/chart/FundChart'
 import SharesHave from '../views/tables/SharesHave'
 import SharesSelected from '../views/tables/SharesSelected'
 import SharesChart from '../views/chart/SharesChart'
+import MyAna from '../views/myAna/MyAna'
 
 Vue.use(Router)
 
@@ -33,7 +34,8 @@ export default new Router({
         { path:'fundChart', component:FundChart},
         { path:'sharesHave', component:SharesHave},
         { path:'sharesSelected', component:SharesSelected},
-        { path:'sharesChart', component:SharesChart}
+        { path:'sharesChart', component:SharesChart},
+        { path:'myAna', component:MyAna}
       ]
     },
     {

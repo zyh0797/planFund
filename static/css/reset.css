@@ -47,8 +47,8 @@ a{
 
 /* element-ui 中表格的样式，因为需要使用全局样式才生效 */
 .el-table .warning-row {
-   background: rgba(233, 183, 194, 0.295);
+   background: rgb(233, 183, 194);
 }
 .el-table .success-row {
-   background: rgba(197, 236, 179, 0.411);
+   background: rgb(197, 236, 179);
 }

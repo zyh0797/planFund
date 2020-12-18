@@ -23,7 +23,7 @@
                                 <el-input v-model="search" size="mini" placeholder="输入基金名"/>
                             </template>
                             <template slot-scope="scope">
-                                <el-button size="mini" type="success" @click="handleEdit(scope.$index, scope.row)" >购买记录</el-button>
+                                <el-button size="mini" type="success" @click="handleEdit(scope.$index, scope.row)" >操作记录</el-button>
                                 <el-button size="mini" type="danger" @click="handleEdit(scope.$index, scope.row)" >模拟加仓</el-button>
                             </template>
                         </el-table-column>

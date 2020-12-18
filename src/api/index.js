@@ -4,5 +4,9 @@ import ajax from './ajax'
 /**
  * 用户注册
 */
-export const selectAllFunds = () => ajax('url');
+let url = 'http://127.0.0.1:8081/'
+
+export default{
+    selectAllFunds: () => ajax(url)
+}
 

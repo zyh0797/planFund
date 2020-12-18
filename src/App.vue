@@ -19,9 +19,15 @@
         </el-menu>
         
       </el-header>
-        <el-main>
-          <router-view/>
-        </el-main>
+      <el-main>
+        <router-view/>
+      </el-main>
+      <el-footer>
+        <div>
+          <p>本站不用做资金理财投资平台，只是一个韭菜成长的记录工具</p>
+          <p>解释权归作者所有 Tab © 2020-2022</a></p>
+        </div>
+      </el-footer>
     </el-container>
   </div>
 </template>
@@ -86,6 +92,12 @@ export default {
     color: #333;
     text-align: center;
     line-height: 60px;
+  }
+  .el-footer{
+    background-color:#333;
+    color:#fff;
+    text-align: center;
+    line-height: 30px;
   }
   .logo_box{
     height: 100%;

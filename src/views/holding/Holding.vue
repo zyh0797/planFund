@@ -40,6 +40,15 @@
                                     <el-menu-item index="2-3">股票统计</el-menu-item>
                                 </el-menu-item-group>
                             </el-submenu>
+                            <el-submenu index="3">
+                                <template slot="title">
+                                    <i class="el-icon-collection"></i>
+                                    <span>语录</span>
+                                </template>
+                                <el-menu-item-group title="韭菜语录">
+                                    <el-menu-item index="3-1">韭菜语录</el-menu-item>
+                                </el-menu-item-group>
+                            </el-submenu>
                         </el-menu>
                     </el-col>
                 </el-row>
@@ -76,6 +85,9 @@
                         break
                     case '2-3':
                         this.$router.push('/holding/sharesChart')
+                        break
+                    case '3-1':
+                        this.$router.push('/holding/myAna')
                         break
                 }
             }
